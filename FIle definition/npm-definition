@@ -1,0 +1,25 @@
+NPM (Node package Manager)
+
+npm calls the reusable code a package
+
+package is a folder contains javascript code
+
+modules/ dependencies/ package  are all the same and use interchangeably (shared javascript code)
+
+
+
+
+//Local dependency - only use the package only for this particular project
+
+//npm i <packageName>
+
+
+//Global dependency - use it in every project
+
+//npm install -g <packageName>
+//sudo install -g <packageName> (mac)
+
+
+
+npm init (step by step creation for package.json)
+npm inti -y (everything default)
